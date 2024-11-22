@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> This branch is based off v5.x of `rustlings` and as such **will not** work on v6.x+
+>
+> To validate these exercises:
+> - Install Rust v1.82
+> - `cargo run -- verify`
+
 <div class="oranda-hide">
 
 # rustlings 🦀❤️
